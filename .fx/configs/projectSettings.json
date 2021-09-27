@@ -1,0 +1,23 @@
+{
+    "appName": "Anne0926523tstab",
+    "projectId": "abb191c9-3fd8-43e6-8751-856b745a31f4",
+    "solutionSettings": {
+        "name": "fx-solution-azure",
+        "version": "1.0.0",
+        "hostType": "Azure",
+        "azureResources": [],
+        "capabilities": [
+            "Tab"
+        ],
+        "activeResourcePlugins": [
+            "fx-resource-frontend-hosting",
+            "fx-resource-aad-app-for-teams",
+            "fx-resource-local-debug",
+            "fx-resource-appstudio",
+            "fx-resource-simple-auth"
+        ]
+    },
+    "version": "1.0.0",
+    "activeEnvironment": "dev",
+    "programmingLanguage": "typescript"
+}
